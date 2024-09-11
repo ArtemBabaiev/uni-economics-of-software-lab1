@@ -1,0 +1,182 @@
+[
+	{
+		"name": "RELY",
+		"desc": "Required software reliability",
+		"rating": {
+			"veryLow": 0.75,
+			"low": 0.88,
+			"nominal": 1.00,
+			"high": 1.15,
+			"veryHigh": 1.40,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "DATA",
+		"desc": "Size of application database",
+		"rating": {
+			"veryLow": null,
+			"low": 0.94,
+			"nominal": 1.00,
+			"high": 1.08,
+			"veryHigh": 1.16,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "CPLX",
+		"desc": "Complexity of the product",
+		"rating": {
+			"veryLow": 0.70,
+			"low": 0.85,
+			"nominal": 1.00,
+			"high": 1.15,
+			"veryHigh": 1.30,
+			"extraHigh": 1.65
+		}
+	},
+	{
+		"name": "TIME",
+		"desc": "Run-time performance constraints",
+		"rating": {
+			"veryLow": null,
+			"low": null,
+			"nominal": 1.00,
+			"high": 1.11,
+			"veryHigh": 1.30,
+			"extraHigh": 1.66
+		}
+	},
+	{
+		"name": "STOR",
+		"desc": "Memory constraints",
+		"rating": {
+			"veryLow": null,
+			"low": null,
+			"nominal": 1.00,
+			"high": 1.06,
+			"veryHigh": 1.21,
+			"extraHigh": 1.56
+		}
+	},
+	{
+		"name": "VIRT",
+		"desc": "Volatility of the virtual machine environment",
+		"rating": {
+			"veryLow": null,
+			"low": 0.87,
+			"nominal": 1.00,
+			"high": 1.15,
+			"veryHigh": 1.30,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "TURN",
+		"desc": "Required turnabout time",
+		"rating": {
+			"veryLow": null,
+			"low": 0.87,
+			"nominal": 1.00	,
+			"high": 1.07,
+			"veryHigh": 1.15,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "ACAP",
+		"desc": "Analyst capability",
+		"rating": {
+			"veryLow": 1.46,
+			"low": 1.19,
+			"nominal": 1.00,
+			"high": 0.86,
+			"veryHigh": 0.71,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "AEXP",
+		"desc": "Applications experience",
+		"rating": {
+			"veryLow": 1.29,
+			"low": 1.13,
+			"nominal": 1.00,
+			"high": 0.91,
+			"veryHigh": 0.82,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "PCAP",
+		"desc": "Software engineer capability",
+		"rating": {
+			"veryLow": 1.42,
+			"low": 1.17,
+			"nominal": 1.00,
+			"high": 0.86,
+			"veryHigh": 0.70,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "VEXP",
+		"desc": "Virtual machine experience",
+		"rating": {
+			"veryLow": 1.21,
+			"low": 1.10,
+			"nominal": 1.00,
+			"high": 0.90,
+			"veryHigh": null,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "LEXP",
+		"desc": "desc",
+		"rating": {
+			"veryLow": 1.14,
+			"low": 1.07,
+			"nominal": 1.00,
+			"high": 0.95,
+			"veryHigh": null,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "MODP",
+		"desc": "Application of software engineering methods",
+		"rating": {
+			"veryLow": 1.24,
+			"low": 1.10,
+			"nominal": 1.00,
+			"high": 0.91,
+			"veryHigh": 0.82,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "TOOL",
+		"desc": "Use of software tools",
+		"rating": {
+			"veryLow": 1.24,
+			"low": 1.10,
+			"nominal": 1.00,
+			"high": 0.91,
+			"veryHigh": 0.83,
+			"extraHigh": null
+		}
+	},
+	{
+		"name": "SCED",
+		"desc": "Required development schedule",
+		"rating": {
+			"veryLow": 1.23,
+			"low": 1.08,
+			"nominal": 1.00,
+			"high": 1.04,
+			"veryHigh": 1.10,
+			"extraHigh": null
+		}
+	}
+]
